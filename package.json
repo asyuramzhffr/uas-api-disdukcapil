@@ -1,0 +1,12 @@
+{
+  "name": "uas-api-disdukcapil",
+  "version": "1.0.0",
+  "description": "API UAS Layanan Disdukcapil",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
